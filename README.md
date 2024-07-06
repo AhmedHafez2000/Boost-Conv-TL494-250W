@@ -20,6 +20,8 @@ It is based on **TL494 Pulse-Width-Modulation Control Circuits**
 
 **(This circuit can be fabricated in home a printable file is attached in PCB folder.)**
 
+There are 2 version of the design one with SMD vesion of TL494 IC and the other with through hole version, **I recommend the TH version as has better heat disspation for the MOSFET and the schottky diode**.
+
 ## DIY Sample
 ### SMD Version
 ![](https://github.com/AhmedHafez2000/Boost-Conv-TL494-250W/blob/main/Photos/IMG_1.jpg?raw=true)
@@ -56,5 +58,5 @@ It is based on **TL494 Pulse-Width-Modulation Control Circuits**
 ![3D PCB](https://github.com/AhmedHafez2000/Boost-Conv-TL494-250W/blob/main/PCB/3D-Bot.png?raw=true)
 
 
-###The design inspired by the following Chinese kit:
+### The design inspired by the following Chinese kit:
 ![](https://github.com/AhmedHafez2000/Boost-Conv-TL494-250W/blob/main/Photos/IMG_0.jpg?raw=true)
